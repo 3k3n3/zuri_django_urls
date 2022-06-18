@@ -104,7 +104,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
-env/
+#env/ #Name of this folder is env too...
 venv/
 ENV/
 env.bak/
